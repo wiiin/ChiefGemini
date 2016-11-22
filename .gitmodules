@@ -1,3 +1,3 @@
 [submodule "gemini"]
-	path = src/wiiin-gemini
+	path = wiiin-gemini
 	url = https://github.com/wiiin/gemini
